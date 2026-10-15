@@ -1,0 +1,24 @@
+{
+  "name": "bytecraft-store",
+  "version": "1.0.0",
+  "description": "Bytecraft Store — Catálogo de Hardware e E-commerce de Alta Performance",
+  "homepage": "https://bytecraft.andrecorreia01.com.br",
+  "main": "index.js",
+  "scripts": {
+    "build": "node src/build.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
+  },
+  "keywords": ["ecommerce", "hardware", "zod", "cloudflare-pages", "portfolio"],
+  "author": "André Correia",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "lucide-react": "^1.57.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "wrangler": "^4.151.0"
+  }
+}

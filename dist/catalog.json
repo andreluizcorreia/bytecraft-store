@@ -1,0 +1,1606 @@
+{
+  "storeName": "ByteCraft Informática",
+  "tagline": "O Maior Especialista em Hardware, Upgrades e Tecnologia Descomplicada em Portugal",
+  "currency": "EUR",
+  "currencySymbol": "€",
+  "supportPhone": "+351 210 000 000",
+  "supportEmail": "apoio@bytecraft.pt",
+  "topBanner": {
+    "campaignName": "CAMPANHA UPGRADE EXPRESS 2026",
+    "highlightText": "Geração RTX 5080/5070 disponível + Portes Grátis acima de 50€ para Portugal Continental!",
+    "ctaText": "Ver Novidades",
+    "ctaLink": "#catalogo",
+    "urgencyBadge": "TERMINA EM POUCAS HORAS"
+  },
+  "categories": [
+    {
+      "id": "cat-componentes",
+      "name": "Componentes & Hardware",
+      "slug": "componentes-hardware",
+      "description": "Placas Gráficas RTX Série 50 (5090, 5080, 5070 Ti, 5070, 5060 Ti), Ryzen 9000 e Core Ultra 200.",
+      "icon": "cpu",
+      "subcategories": [
+        {
+          "id": "sub-gpu",
+          "name": "Placas Gráficas (RTX Série 50)",
+          "slug": "placas-graficas",
+          "count": 18
+        },
+        {
+          "id": "sub-cpu",
+          "name": "Processadores (AMD 9000 / Intel Ultra)",
+          "slug": "processadores",
+          "count": 15
+        },
+        {
+          "id": "sub-motherboards",
+          "name": "Motherboards X870 / Z890",
+          "slug": "motherboards",
+          "count": 12
+        },
+        {
+          "id": "sub-psu",
+          "name": "Fontes ATX 3.1 PCIe 5.1",
+          "slug": "fontes-psu",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "id": "cat-computadores",
+      "name": "Computadores & Armazenamento",
+      "slug": "computadores-armazenamento",
+      "description": "Desktops Gaming ByteCraft, Portáteis Core Ultra/Ryzen AI 9 e SSDs NVMe PCIe 5.0 até 14.500 MB/s.",
+      "icon": "desktop",
+      "subcategories": [
+        {
+          "id": "sub-pcs-montados",
+          "name": "Computadores Gaming ByteCraft",
+          "slug": "computadores-gaming",
+          "count": 10
+        },
+        {
+          "id": "sub-portateis-gaming",
+          "name": "Portáteis Gaming RTX 50",
+          "slug": "portateis-gaming",
+          "count": 8
+        },
+        {
+          "id": "sub-portateis",
+          "name": "Portáteis Ultralight AI Copilot+",
+          "slug": "portateis-produtividade",
+          "count": 10
+        },
+        {
+          "id": "sub-ssd",
+          "name": "Discos SSD M.2 PCIe 5.0 / 4.0",
+          "slug": "discos-ssd-nvme",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "id": "cat-perifericos",
+      "name": "Periféricos & Redes",
+      "slug": "perifericos-redes",
+      "description": "Monitores QD-OLED 240Hz/360Hz, Teclados Magnéticos Rapid Trigger, Ratos 8000Hz e Wi-Fi 7.",
+      "icon": "keyboard",
+      "subcategories": [
+        {
+          "id": "subcat-monitores",
+          "name": "Monitores QD-OLED 240Hz/360Hz",
+          "slug": "monitores-oled",
+          "count": 14
+        },
+        {
+          "id": "subcat-teclados",
+          "name": "Teclados Magnéticos Hall Effect",
+          "slug": "teclados-magneticos",
+          "count": 16
+        },
+        {
+          "id": "subcat-ratos",
+          "name": "Ratos 8000Hz Ultralight",
+          "slug": "ratos-8000hz",
+          "count": 18
+        },
+        {
+          "id": "subcat-audio",
+          "name": "Áudio & Headsets Audiófilos",
+          "slug": "audio-headsets",
+          "count": 11
+        },
+        {
+          "id": "subcat-redes",
+          "name": "Routers Wi-Fi 7 Multi-Gigabit",
+          "slug": "redes-wifi7",
+          "count": 7
+        },
+        {
+          "id": "subcat-servicos",
+          "name": "Serviço ByteCraft Pro Montagem",
+          "slug": "servicos-montagem",
+          "count": 5
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-comp-rtx5090-asus",
+      "sku": "BC-GPU-RTX5090-STRIX-32G",
+      "brand": "ASUS",
+      "title": "Placa Gráfica ASUS ROG Strix GeForce RTX 5090 OC Edition 32GB GDDR7",
+      "slug": "asus-rog-strix-geforce-rtx-5090-oc-edition-32gb-gddr7",
+      "categoryId": "cat-componentes",
+      "subcategoryId": "sub-gpu",
+      "price": 3299.9,
+      "oldPrice": 3499.9,
+      "discountPercent": 6,
+      "stockNumber": 5,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Poucas Unidades",
+        "bragaLeiria": "Sob Consulta"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Flagship 4K/8K Gaming & IA",
+      "rating": 5,
+      "reviewsCount": 14,
+      "shortSpecs": [
+        "Memória: 32GB GDDR7 512-bit",
+        "Arquitetura NVIDIA Blackwell com DLSS 4 & Ray Tracing Completo",
+        "Refrigeração Axial-tech com câmara de vapor patenteada",
+        "Conector nativo PCIe 5.1 12V-2x6 (Recomendado PSU 1000W+)"
+      ],
+      "detailedSpecs": {
+        "Clock Boost": "2580 MHz (OC Mode)",
+        "Núcleos CUDA": "21760",
+        "Interface de Memória": "512-bit GDDR7 (28 Gbps)",
+        "Largura de Banda": "1792 GB/s",
+        "Saídas de Vídeo": "2x HDMI 2.1a, 3x DisplayPort 2.1b UHBR20",
+        "Dimensões": "357.6 x 149.3 x 70.1 mm (3.5 Slots)",
+        "Consumo Máximo (TDP)": "600W",
+        "Garantia": "3 Anos em Portugal"
+      },
+      "compatibilityStatus": "Exige caixa com espaço mínimo de 360mm e fonte ATX 3.1 com cabo nativo 12V-2x6 de 600W.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=1000&q=80",
+          "alt": "ASUS ROG Strix GeForce RTX 5090 OC 32GB GDDR7"
+        }
+      ],
+      "featuredPromo": true
+    },
+    {
+      "id": "prod-comp-rtx5080-msi",
+      "sku": "BC-GPU-RTX5080-MSI-TRIO-16G",
+      "brand": "MSI",
+      "title": "Placa Gráfica MSI GeForce RTX 5080 16G GAMING TRIO OC GDDR7",
+      "slug": "msi-geforce-rtx-5080-16g-gaming-trio-oc-gddr7",
+      "categoryId": "cat-componentes",
+      "subcategoryId": "sub-gpu",
+      "price": 1549.9,
+      "oldPrice": 1699.9,
+      "discountPercent": 9,
+      "stockNumber": 9,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Sob Consulta"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Alta Performance 4K 144Hz",
+      "rating": 4.9,
+      "reviewsCount": 22,
+      "shortSpecs": [
+        "Memória: 16GB GDDR7 256-bit",
+        "Sistema térmico TRI FROZR 3 com TORX Fan 5.0",
+        "Suporte completo a DLSS 4 Frame Generation e Reflex",
+        "Alimentação otimizada ATX 3.1 12V-2x6"
+      ],
+      "detailedSpecs": {
+        "Clock Boost": "2640 MHz (Gaming & Silent Modes)",
+        "Núcleos CUDA": "10752",
+        "Interface de Memória": "256-bit GDDR7",
+        "Largura de Banda": "1024 GB/s",
+        "Saídas de Vídeo": "1x HDMI 2.1a, 3x DisplayPort 2.1a",
+        "Dimensões": "338 x 140 x 67 mm",
+        "Consumo Máximo (TDP)": "400W",
+        "Garantia": "3 Anos em Portugal"
+      },
+      "compatibilityStatus": "Compatível com caixas Mid-Tower modernas (comprimento 338mm). Suporte anti-sag incluído.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=1000&q=80",
+          "alt": "MSI GeForce RTX 5080 16G Gaming Trio OC"
+        }
+      ],
+      "featuredPromo": true
+    },
+    {
+      "id": "prod-comp-rtx5070ti-gigabyte",
+      "sku": "BC-GPU-RTX5070TI-GIGA-OC-16G",
+      "brand": "Gigabyte",
+      "title": "Placa Gráfica Gigabyte GeForce RTX 5070 Ti GAMING OC 16GB GDDR7",
+      "slug": "gigabyte-geforce-rtx-5070-ti-gaming-oc-16gb-gddr7",
+      "categoryId": "cat-componentes",
+      "subcategoryId": "sub-gpu",
+      "price": 1249.9,
+      "oldPrice": 1369.9,
+      "discountPercent": 9,
+      "stockNumber": 12,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Poucas Unidades",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Equilíbrio Supremo 1440p / 4K",
+      "rating": 4.9,
+      "reviewsCount": 18,
+      "shortSpecs": [
+        "Memória: 16GB GDDR7 256-bit",
+        "Refrigeração WINDFORCE com 3 ventoinhas Hawk de 100mm",
+        "Dual BIOS: Modo Silencioso e Modo Desempenho",
+        "Placa traseira metálica reforçada com Screen Cooling"
+      ],
+      "detailedSpecs": {
+        "Clock Boost": "2520 MHz",
+        "Núcleos CUDA": "8960",
+        "Interface de Memória": "256-bit GDDR7",
+        "Velocidade de Memória": "28 Gbps",
+        "Saídas de Vídeo": "1x HDMI 2.1a, 3x DisplayPort 2.1",
+        "Dimensões": "315 x 130 x 58 mm",
+        "Consumo (TDP)": "285W",
+        "Garantia": "3+1 Anos com registo Gigabyte"
+      },
+      "compatibilityStatus": "Requer fonte de alimentação de pelo menos 750W e caixa com 315mm livres.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=1000&q=80",
+          "alt": "Gigabyte GeForce RTX 5070 Ti Gaming OC 16GB"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-comp-rtx5070-asus-tuf",
+      "sku": "BC-GPU-RTX5070-ASUS-TUF-12G",
+      "brand": "ASUS",
+      "title": "Placa Gráfica ASUS TUF Gaming GeForce RTX 5070 12GB GDDR7 OC Edition",
+      "slug": "asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc",
+      "categoryId": "cat-componentes",
+      "subcategoryId": "sub-gpu",
+      "price": 929.9,
+      "oldPrice": 979.9,
+      "discountPercent": 5,
+      "stockNumber": 15,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Sob Consulta"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Construção Militar TUF",
+      "rating": 4.8,
+      "reviewsCount": 31,
+      "shortSpecs": [
+        "Memória: 12GB GDDR7 192-bit ultra rápida",
+        "Condensadores de grau militar certificados a 105°C por 20K horas",
+        "Tecnologia Auto-Extreme para máxima fiabilidade de solda",
+        "Excelente eficiência energética de 250W"
+      ],
+      "detailedSpecs": {
+        "Clock Boost": "2550 MHz (OC Mode)",
+        "Núcleos CUDA": "6144",
+        "Interface de Memória": "192-bit GDDR7",
+        "Largura de Banda": "672 GB/s",
+        "Saídas de Vídeo": "1x HDMI 2.1a, 3x DisplayPort 2.1",
+        "Dimensões": "301 x 134 x 54 mm",
+        "Recomendação PSU": "650W ATX 3.0 / 3.1",
+        "Garantia": "3 Anos em Portugal"
+      },
+      "compatibilityStatus": "Instalação fácil em qualquer caixa padrão ATX ou Micro-ATX com suporte para 301mm.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=1000&q=80",
+          "alt": "ASUS TUF Gaming GeForce RTX 5070 12GB"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-comp-rtx5060ti-zotac",
+      "sku": "BC-GPU-RTX5060TI-ZOT-16G",
+      "brand": "ZOTAC",
+      "title": "Placa Gráfica ZOTAC Gaming GeForce RTX 5060 Ti Twin Edge 16GB GDDR7",
+      "slug": "zotac-gaming-geforce-rtx-5060-ti-twin-edge-16gb-gddr7",
+      "categoryId": "cat-componentes",
+      "subcategoryId": "sub-gpu",
+      "price": 719.9,
+      "oldPrice": 779.9,
+      "discountPercent": 8,
+      "stockNumber": 20,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Design Compacto SFF-Ready",
+      "rating": 4.7,
+      "reviewsCount": 27,
+      "shortSpecs": [
+        "Memória: 16GB GDDR7 128-bit para longevidade em texturas Ultra",
+        "Formato compacto de 2 slots compatível com caixas ITX",
+        "Arrefecimento IceStorm 2.0 com paragem de ventoinhas FREEZE",
+        "Consumo ultra comedido de apenas 180W"
+      ],
+      "detailedSpecs": {
+        "Clock Boost": "2460 MHz",
+        "Núcleos CUDA": "4608",
+        "VRAM": "16GB GDDR7 (28 Gbps)",
+        "Interface": "PCIe 5.0 x8",
+        "Saídas de Vídeo": "1x HDMI 2.1a, 3x DisplayPort 2.1",
+        "Dimensões": "225.5 x 123.2 x 40.1 mm (2.0 Slots)",
+        "Recomendação PSU": "550W",
+        "Garantia": "3 Anos em Portugal"
+      },
+      "compatibilityStatus": "Perfeita para caixas compactas Mini-ITX e Micro-ATX graças ao comprimento de apenas 22.5cm.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=1000&q=80",
+          "alt": "ZOTAC Gaming GeForce RTX 5060 Ti Twin Edge 16GB"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-comp-ryzen-9800x3d",
+      "sku": "BC-CPU-AMD-9800X3D",
+      "brand": "AMD",
+      "title": "Processador AMD Ryzen 7 9800X3D 8-Core 4.7GHz c/ Turbo 5.2GHz 104MB Cache Socket AM5",
+      "slug": "processador-amd-ryzen-7-9800x3d-8-core-am5",
+      "categoryId": "cat-componentes",
+      "subcategoryId": "sub-cpu",
+      "price": 529.9,
+      "oldPrice": 569.9,
+      "discountPercent": 7,
+      "stockNumber": 18,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Poucas Unidades",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "O Rei Indiscutível do Gaming",
+      "rating": 5,
+      "reviewsCount": 64,
+      "shortSpecs": [
+        "8 Núcleos e 16 Threads na arquitetura Zen 5 a 4nm",
+        "Cache 3D V-Cache de 2ª geração com 104MB de cache total",
+        "Suporte completo a Overclocking e memórias DDR5 EXPO",
+        "TDP eficiente de 120W no Socket AM5"
+      ],
+      "detailedSpecs": {
+        "Socket": "AM5 (Compatível com motherboards X870, B650 e X670)",
+        "Clock Base": "4.7 GHz",
+        "Clock Turbo Max": "5.2 GHz",
+        "Caches": "L2: 8MB, L3: 96MB (Total 104MB)",
+        "Litografia": "TSMC 4nm FinFET",
+        "Gráficos Integrados": "AMD Radeon Graphics (2 CUs RDNA 2)",
+        "TDP Padrão": "120W",
+        "Garantia": "3 Anos em Portugal"
+      },
+      "compatibilityStatus": "Compatível com todas as motherboards Socket AM5 (atualização de BIOS recomendada para chipsets série 600).",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=1000&q=80",
+          "alt": "Processador AMD Ryzen 7 9800X3D AM5"
+        }
+      ],
+      "featuredPromo": true
+    },
+    {
+      "id": "prod-comp-intel-core-285k",
+      "sku": "BC-CPU-INTEL-285K",
+      "brand": "Intel",
+      "title": "Processador Intel Core Ultra 9 285K 24-Core c/ Turbo até 5.7GHz 36MB Cache Socket LGA1851",
+      "slug": "processador-intel-core-ultra-9-285k-24-core-lga1851",
+      "categoryId": "cat-componentes",
+      "subcategoryId": "sub-cpu",
+      "price": 649.9,
+      "oldPrice": 699.9,
+      "discountPercent": 7,
+      "stockNumber": 11,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Sob Consulta"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Topo de Gama Arrow Lake & NPU IA",
+      "rating": 4.8,
+      "reviewsCount": 29,
+      "shortSpecs": [
+        "24 Núcleos (8 P-Cores Lion Cove + 16 E-Cores Skymont)",
+        "Frequência máxima Thermal Velocity Boost até 5.7 GHz",
+        "NPU Intel AI Boost integrada com aceleração dedicada de IA",
+        "Nova plataforma eficiente Socket LGA1851 com suporte DDR5"
+      ],
+      "detailedSpecs": {
+        "Socket": "LGA1851 (Motherboards Z890 / B860)",
+        "Núcleos / Threads": "24 Núcleos / 24 Threads",
+        "Frequência Base P-Core": "3.7 GHz (Turbo até 5.7 GHz)",
+        "Cache Inteligente": "36MB Intel Smart Cache (L3) + 40MB L2",
+        "Gráficos Integrados": "Intel Graphics com 4 Xe Cores",
+        "Potência Base / Turbo": "125W / 250W MTP",
+        "Garantia": "3 Anos em Portugal"
+      },
+      "compatibilityStatus": "Exige exclusivamente motherboards com socket LGA1851 (Z890) e memória DDR5.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=1000&q=80",
+          "alt": "Processador Intel Core Ultra 9 285K LGA1851"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-comp-asus-x870e-e",
+      "sku": "BC-MB-ASUS-X870E-E",
+      "brand": "ASUS",
+      "title": "Motherboard ASUS ROG Strix X870E-E Gaming WiFi Socket AM5",
+      "slug": "motherboard-asus-rog-strix-x870e-e-gaming-wifi-am5",
+      "categoryId": "cat-componentes",
+      "subcategoryId": "sub-motherboards",
+      "price": 519.9,
+      "oldPrice": 559.9,
+      "discountPercent": 7,
+      "stockNumber": 14,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Poucas Unidades"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Wi-Fi 7 & Dual USB4 40Gbps",
+      "rating": 4.9,
+      "reviewsCount": 21,
+      "shortSpecs": [
+        "VRM robusto de 18+2+2 fases de alimentação de 110A",
+        "Conectividade de última geração com Wi-Fi 7 e Ethernet 5Gb",
+        "5 slots M.2 integrados (3x PCIe 5.0 x4) com dissipadores maciços",
+        "Botão PCIe Slot Q-Release Slim e M.2 Q-Latch sem ferramentas"
+      ],
+      "detailedSpecs": {
+        "Formato": "ATX (30.5 cm x 24.4 cm)",
+        "Socket & Chipset": "AMD AM5 / AMD X870E",
+        "Memória Suportada": "4x DDR5 DIMM até 8400+ MT/s (OC), máx 192GB",
+        "Slots PCIe": "1x PCIe 5.0 x16 SafeSlot",
+        "Armazenamento": "3x M.2 PCIe 5.0 x4, 2x M.2 PCIe 4.0 x4, 4x SATA 6Gb/s",
+        "Portas Traseiras": "2x USB4 Type-C (40Gbps), 10x USB 3.2, Áudio SupremeFX ALC4080",
+        "Garantia": "3 Anos em Portugal"
+      },
+      "compatibilityStatus": "Suporta nativamente processadores AMD Ryzen séries 9000, 8000 e 7000.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+          "alt": "Motherboard ASUS ROG Strix X870E-E Gaming WiFi"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-comp-msi-z890-carbon",
+      "sku": "BC-MB-MSI-Z890-CARBON",
+      "brand": "MSI",
+      "title": "Motherboard MSI MPG Z890 CARBON WIFI Socket LGA1851",
+      "slug": "motherboard-msi-mpg-z890-carbon-wifi-lga1851",
+      "categoryId": "cat-componentes",
+      "subcategoryId": "sub-motherboards",
+      "price": 479.9,
+      "oldPrice": 519.9,
+      "discountPercent": 8,
+      "stockNumber": 8,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Poucas Unidades",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Sob Consulta"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Ultra Fast Thunderbolt 4 & 5G LAN",
+      "rating": 4.8,
+      "reviewsCount": 16,
+      "shortSpecs": [
+        "VRM de 18+1+1+1 fases Duet Rail Power System com SPS de 110A",
+        "Duas portas Thunderbolt 4 Type-C de 40Gbps nativas no painel traseiro",
+        "Rede de ultra velocidade com Wi-Fi 7 320MHz e portas 5G + 2.5G LAN",
+        "Design EZ DIY: desengate rápido magnético de M.2 e PCIe"
+      ],
+      "detailedSpecs": {
+        "Formato": "ATX (30.5 cm x 24.4 cm)",
+        "Socket & Chipset": "Intel LGA1851 / Intel Z890",
+        "Memória Suportada": "4x DDR5 DIMM até 9200+ MT/s (OC), máx 256GB",
+        "Slots PCIe": "1x PCIe 5.0 x16 metálico reforçado",
+        "Armazenamento": "1x M.2 PCIe 5.0 x4, 4x M.2 PCIe 4.0 x4, 4x SATA 6Gb/s",
+        "Áudio": "Realtek ALC1220P com amplificador dedicado",
+        "Garantia": "3 Anos em Portugal"
+      },
+      "compatibilityStatus": "Compatível exclusivamente com a família de processadores Intel Core Ultra 200 (Socket LGA1851).",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
+          "alt": "Motherboard MSI MPG Z890 Carbon WiFi"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-comp-seasonic-gx1000",
+      "sku": "BC-PSU-SEA-GX1000-ATX31",
+      "brand": "Seasonic",
+      "title": "Fonte de Alimentação Seasonic Focus GX-1000 ATX 3.1 1000W 80 Plus Gold Full Modular",
+      "slug": "fonte-seasonic-focus-gx-1000-atx-3-1-pcie-5-1-1000w-gold",
+      "categoryId": "cat-componentes",
+      "subcategoryId": "sub-psu",
+      "price": 169.9,
+      "oldPrice": 199.9,
+      "discountPercent": 15,
+      "stockNumber": 25,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Certificação ATX 3.1 & 10 Anos Garantia",
+      "rating": 5,
+      "reviewsCount": 43,
+      "shortSpecs": [
+        "Potência contínua de 1000W com certificação 80 Plus Gold e Cybenetics",
+        "Padrão oficial ATX 3.1 com cabo nativo 12V-2x6 (PCIe 5.1) de 600W",
+        "Condensadores 100% japoneses testados a 105°C para máxima durabilidade",
+        "Controlo térmico híbrido com ventoinha FDB de 135mm ultra silenciosa"
+      ],
+      "detailedSpecs": {
+        "Norma": "Intel ATX 3.1 / PCIe 5.1",
+        "Eficiência": "80 Plus Gold (Até 92% a 50% de carga)",
+        "Cablagem": "100% Modular com cabos em relevo flexíveis",
+        "Conectores": "1x 24-Pin ATX, 2x 8-Pin CPU EPS, 1x 12V-2x6 (600W), 3x PCIe 8-Pin, 10x SATA",
+        "Proteções": "OPP, OVP, UVP, OCP, OTP, SCP",
+        "Dimensões": "140 x 150 x 86 mm (Chassi compacto)",
+        "Garantia": "10 Anos de Garantia Direta Seasonic"
+      },
+      "compatibilityStatus": "Alimenta com total estabilidade sistemas de alta performance com placas gráficas RTX Série 50 e CPUs de alto TDP.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=1000&q=80",
+          "alt": "Fonte de Alimentação Seasonic Focus GX-1000 ATX 3.1"
+        }
+      ],
+      "featuredPromo": true
+    },
+    {
+      "id": "prod-comp-001",
+      "sku": "BC-PC-TITAN-5080",
+      "brand": "ByteCraft Powered By ASUS",
+      "title": "Computador Desktop Gaming ByteCraft Apex Titan RTX 5080 Intel Core Ultra 9 285K 32GB DDR5 2TB NVMe PCIe 5.0",
+      "slug": "desktop-gaming-bytecraft-apex-titan-rtx-5080-ultra-9",
+      "categoryId": "cat-computadores",
+      "subcategoryId": "sub-pcs-montados",
+      "price": 3499.9,
+      "oldPrice": 3799.9,
+      "discountPercent": 8,
+      "stockNumber": 5,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Poucas Unidades",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Nova Geração RTX 5080",
+      "rating": 5,
+      "reviewsCount": 14,
+      "shortSpecs": [
+        "Processador Intel Core Ultra 9 285K 24-Core até 5.7GHz com NPU IA",
+        "Placa Gráfica ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7",
+        "32GB RAM Kingston FURY Beast DDR5 6400MHz RGB",
+        "SSD Crucial T705 2TB NVMe M.2 PCIe 5.0 (14.500 MB/s) com Watercooler 360mm"
+      ],
+      "detailedSpecs": {
+        "Processador": "Intel Core Ultra 9 285K (24 Cores, 24 Threads, Cache 36MB, até 5.70 GHz)",
+        "Placa Gráfica": "NVIDIA GeForce RTX 5080 16GB GDDR7 (DLSS 4, Frame Generation, Blackwell)",
+        "Motherboard": "ASUS TUF GAMING Z890-PLUS WIFI (LGA1851, PCIe 5.0, Wi-Fi 7)",
+        "Memória RAM": "32GB (2x16GB) DDR5-6400MHz CL32 Kingston FURY Beast RGB",
+        "Armazenamento": "SSD 2TB Crucial T705 PCIe 5.0 NVMe M.2 (Leitura 14.500 MB/s / Escrita 12.700 MB/s)",
+        "Refrigeração": "Watercooler AIO 360mm ARGB ByteCraft Liquid Master",
+        "Fonte de Alimentação": "Corsair RM850e 850W 80 Plus Gold ATX 3.1 PCIe 5.1 Modular",
+        "Caixa": "Lian Li O11 Vision Black / Vidro Temperado Panorâmico",
+        "Sistema Operativo": "Windows 11 Pro 64-bit pré-instalado e ativado"
+      },
+      "compatibilityStatus": "Montagem certificada ByteCraft com 3 anos de garantia e testes de stress 48h incluídos.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&w=800&q=80",
+          "alt": "Desktop Gaming ByteCraft Apex Titan RTX 5080"
+        }
+      ],
+      "featuredPromo": true
+    },
+    {
+      "id": "prod-comp-002",
+      "sku": "BC-PC-STRIKER-5070TI",
+      "brand": "ByteCraft Gaming",
+      "title": "Computador Desktop Gaming ByteCraft Striker RTX 5070 Ti AMD Ryzen 7 9800X3D 32GB DDR5 2TB NVMe Gen4",
+      "slug": "desktop-gaming-bytecraft-striker-rtx-5070ti-ryzen-9800x3d",
+      "categoryId": "cat-computadores",
+      "subcategoryId": "sub-pcs-montados",
+      "price": 2599.9,
+      "oldPrice": 2799.9,
+      "discountPercent": 7,
+      "stockNumber": 9,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Poucas Unidades"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "O Rei do Gaming X3D",
+      "rating": 4.9,
+      "reviewsCount": 28,
+      "shortSpecs": [
+        "Processador AMD Ryzen 7 9800X3D 8-Core 3D V-Cache até 5.2GHz",
+        "Placa Gráfica MSI GeForce RTX 5070 Ti Gaming Trio 16GB GDDR7",
+        "32GB RAM Corsair Vengeance DDR5 6000MHz CL30 AMD EXPO",
+        "SSD Kingston KC3000 2TB PCIe 4.0 NVMe (7.000 MB/s) e Fonte 750W Gold"
+      ],
+      "detailedSpecs": {
+        "Processador": "AMD Ryzen 7 9800X3D (8 Cores, 16 Threads, 104MB Cache, até 5.2GHz)",
+        "Placa Gráfica": "MSI GeForce RTX 5070 Ti Ventus 3X OC 16GB GDDR7",
+        "Motherboard": "MSI MAG B650 TOMAHAWK WIFI (Socket AM5, DDR5, Wi-Fi 6E)",
+        "Memória RAM": "32GB (2x16GB) Corsair Vengeance DDR5-6000MHz CL30 AMD EXPO",
+        "Armazenamento": "SSD Kingston KC3000 2TB M.2 PCIe 4.0 NVMe (7.000 MB/s / 7.000 MB/s)",
+        "Refrigeração": "Cooler Thermalright Peerless Assassin 120 SE ARGB",
+        "Fonte de Alimentação": "MSI MAG A750GL 750W 80 Plus Gold ATX 3.0 PCIe 5.0",
+        "Caixa": "Phanteks XT Pro Ultra D-RGB Preto",
+        "Sistema Operativo": "Windows 11 Home pré-ativado"
+      },
+      "compatibilityStatus": "Plataforma AM5 com garantia de upgrades futuros pela AMD até 2027+.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
+          "alt": "Computador Desktop Gaming ByteCraft Striker Gabinete com Vidro Temperado e RGB"
+        }
+      ],
+      "featuredPromo": true
+    },
+    {
+      "id": "prod-comp-003",
+      "sku": "BC-PC-PULSE-5070",
+      "brand": "ByteCraft Gaming",
+      "title": "Computador Desktop Gaming ByteCraft Pulse RTX 5070 AMD Ryzen 7 9700X 32GB DDR5 1TB NVMe Gen4",
+      "slug": "desktop-gaming-bytecraft-pulse-rtx-5070-ryzen-9700x",
+      "categoryId": "cat-computadores",
+      "subcategoryId": "sub-pcs-montados",
+      "price": 1899.9,
+      "oldPrice": 2099.9,
+      "discountPercent": 10,
+      "stockNumber": 12,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Sob Consulta"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Melhor Custo / Desempenho 1440p",
+      "rating": 4.8,
+      "reviewsCount": 21,
+      "shortSpecs": [
+        "Processador AMD Ryzen 7 9700X 8-Core até 5.5GHz Zen 5",
+        "Placa Gráfica Gigabyte GeForce RTX 5070 Windforce OC 12GB GDDR7",
+        "32GB RAM Kingston Fury Beast 6000MHz DDR5",
+        "SSD Kingston NV3 1TB NVMe PCIe 4.0 e Fonte 650W 80+ Gold"
+      ],
+      "detailedSpecs": {
+        "Processador": "AMD Ryzen 7 9700X (8 Cores, 16 Threads, Boost até 5.50 GHz, 65W TDP)",
+        "Placa Gráfica": "Gigabyte GeForce RTX 5070 Windforce OC 12GB GDDR7",
+        "Motherboard": "ASUS PRIME B650M-A WIFI II (AM5)",
+        "Memória RAM": "32GB (2x16GB) Kingston FURY Beast DDR5-6000MHz CL36",
+        "Armazenamento": "SSD Kingston NV3 1TB M.2 2280 NVMe PCIe 4.0 (6.000 MB/s)",
+        "Refrigeração": "Cooler CPU DeepCool AK400 Digital Display",
+        "Fonte de Alimentação": "Seasonic G12 GM 650W 80 Plus Gold Semi-Modular",
+        "Caixa": "Montech Air 100 ARGB Micro-ATX Preta",
+        "Sistema Operativo": "Windows 11 Home 64-bit"
+      },
+      "compatibilityStatus": "Excelente eficiência energética de 65W TDP com baixas temperaturas e ruído mínimo.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
+          "alt": "Desktop Gaming ByteCraft Pulse RTX 5070"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-comp-004",
+      "sku": "BC-LAP-ROG-G16-5080",
+      "brand": "ASUS ROG",
+      "title": "Portátil Gaming ASUS ROG Zephyrus G16 (2026) 16\" OLED 240Hz Intel Core Ultra 9 285H RTX 5080 32GB 2TB SSD",
+      "slug": "portatil-asus-rog-zephyrus-g16-oled-rtx-5080-core-ultra-9",
+      "categoryId": "cat-computadores",
+      "subcategoryId": "sub-portateis-gaming",
+      "price": 3899.9,
+      "oldPrice": 4299.9,
+      "discountPercent": 9,
+      "stockNumber": 4,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Poucas Unidades",
+        "bragaLeiria": "Sob Consulta"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Ecrã ROG Nebula OLED 240Hz",
+      "rating": 5,
+      "reviewsCount": 11,
+      "shortSpecs": [
+        "Ecrã 16\" ROG Nebula OLED 2.5K (2560x1600) 240Hz 0.2ms G-Sync",
+        "Processador Intel Core Ultra 9 285H com acelerador NPU IA de 50+ TOPS",
+        "Placa Gráfica NVIDIA GeForce RTX 5080 16GB GDDR7 TGP 125W",
+        "32GB LPDDR5X 7500MHz e SSD 2TB PCIe 4.0 NVMe ultra-rápido"
+      ],
+      "detailedSpecs": {
+        "Processador": "Intel Core Ultra 9 285H (16 Cores, 16 Threads, Boost 5.4GHz, NPU Integrada)",
+        "Placa Gráfica": "NVIDIA GeForce RTX 5080 16GB GDDR7 com MUX Switch e Advanced Optimus",
+        "Ecrã": "16.0\" WQXGA (2560x1600) 16:10 OLED, 240Hz, 0.2ms, 500 nits HDR, 100% DCI-P3",
+        "Memória RAM": "32GB LPDDR5X-7500MHz Onboard dual-channel",
+        "Armazenamento": "2TB SSD M.2 2280 NVMe PCIe 4.0",
+        "Conectividade": "Wi-Fi 7 (802.11be) Tri-band + Bluetooth 5.4, Thunderbolt 4",
+        "Chassis": "Monobloco de alumínio maquinado CNC de 1.49cm de espessura e 1.85 kg",
+        "Bateria": "90 Wh com carregamento rápido 100W USB-C PD",
+        "Teclado": "Teclado retroiluminado RGB 1-Zone layout PT com Slash Lighting na tampa"
+      },
+      "compatibilityStatus": "Chassi ultraleve de 1.85kg com refrigeração a câmara de vapor e metal líquido Thermal Grizzly.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80",
+          "alt": "Portátil Gaming ASUS ROG Zephyrus G16 OLED RTX 5080"
+        }
+      ],
+      "featuredPromo": true
+    },
+    {
+      "id": "prod-comp-005",
+      "sku": "BC-LAP-LEGION-PRO5-5070",
+      "brand": "Lenovo Legion",
+      "title": "Portátil Gaming Lenovo Legion Pro 5 16\" WQXGA 240Hz Intel Core Ultra 7 255H RTX 5070 32GB 1TB SSD",
+      "slug": "portatil-lenovo-legion-pro-5-16-rtx-5070-core-ultra-7",
+      "categoryId": "cat-computadores",
+      "subcategoryId": "sub-portateis-gaming",
+      "price": 2199.9,
+      "oldPrice": 2399.9,
+      "discountPercent": 8,
+      "stockNumber": 7,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Refrigeração Coldfront 5.0",
+      "rating": 4.8,
+      "reviewsCount": 19,
+      "shortSpecs": [
+        "Ecrã 16\" WQXGA (2560x1600) IPS 240Hz 500nits 100% sRGB DisplayHDR 400",
+        "Processador Intel Core Ultra 7 255H 16-Core com IA Lenovo AI Engine+",
+        "Placa Gráfica NVIDIA GeForce RTX 5070 12GB GDDR7 140W TGP Máximo",
+        "32GB RAM DDR5 5600MHz expansível e 1TB SSD NVMe PCIe 4.0"
+      ],
+      "detailedSpecs": {
+        "Processador": "Intel Core Ultra 7 255H (16 Cores, Boost 5.1GHz, 24MB Cache)",
+        "Placa Gráfica": "NVIDIA GeForce RTX 5070 12GB GDDR7 (TGP máximo 140W c/ Dynamic Boost)",
+        "Ecrã": "16\" 2560x1600 IPS, 240Hz, 16:10, Dolby Vision, G-SYNC, TÜV Low Blue Light",
+        "Memória RAM": "32GB (2x16GB) SO-DIMM DDR5-5600MHz (2x slots expansíveis)",
+        "Armazenamento": "1TB SSD M.2 2280 PCIe 4.0 NVMe + 1 slot M.2 livre para expansão",
+        "Rede": "Wi-Fi 6E (802.11ax 2x2) + RJ45 Gigabit Ethernet + Bluetooth 5.2",
+        "Bateria": "80 Wh com tecnologia Super Rapid Charge Pro (0-80% em 30 min)",
+        "Teclado": "Legion TrueStrike com 4 zonas RGB e curso de 1.5mm layout PT"
+      },
+      "compatibilityStatus": "Equipado com 2 slots SO-DIMM e 2 ranhuras M.2 para upgrades totais sem perda de garantia.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=800&q=80",
+          "alt": "Portátil Gaming Lenovo Legion Pro 5"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-comp-006",
+      "sku": "BC-LAP-ZENBOOK-S16-AI",
+      "brand": "ASUS Zenbook",
+      "title": "Portátil ASUS Zenbook S 16 OLED (2026) 16\" 3K 120Hz AMD Ryzen AI 9 HX 370 32GB 1TB SSD Ceraluminum",
+      "slug": "portatil-asus-zenbook-s-16-oled-ryzen-ai-9-hx370",
+      "categoryId": "cat-computadores",
+      "subcategoryId": "sub-portateis",
+      "price": 1899.9,
+      "oldPrice": 2099.9,
+      "discountPercent": 10,
+      "stockNumber": 8,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Poucas Unidades",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Copilot+ PC NPU 50 TOPS",
+      "rating": 4.9,
+      "reviewsCount": 16,
+      "shortSpecs": [
+        "Ecrã 16\" Lumina OLED 3K (2880x1800) 120Hz 0.2ms 100% DCI-P3 500 nits",
+        "Processador AMD Ryzen AI 9 HX 370 (12 Cores, 24 Threads) com NPU XDNA 2 de 50 TOPS",
+        "Gráfica integrada AMD Radeon 890M com arquitetura RDNA 3.5 de alto rendimento",
+        "Chassi revolucionário em Ceraluminum de apenas 1.1cm de perfil e 1.50kg"
+      ],
+      "detailedSpecs": {
+        "Processador": "AMD Ryzen AI 9 HX 370 (12 Cores / 24 Threads, até 5.1GHz, NPU 50 TOPS)",
+        "Gráficos": "AMD Radeon 890M (16 CUs, desempenho equivalente a GPU dedicada de entrada)",
+        "Ecrã": "16.0\" 3K (2880x1800) OLED, 16:10, 120Hz, 100% DCI-P3, HDR True Black 500",
+        "Memória RAM": "32GB LPDDR5X-7500MHz de alto débito integrada",
+        "Armazenamento": "1TB SSD M.2 NVMe PCIe 4.0 Performance",
+        "Bateria": "78 Wh com autonomia real até 18 horas de produtividade contínua",
+        "Material": "Ceraluminum aeroespacial resistente a riscos e marcas de dedos",
+        "Conectividade": "Wi-Fi 7, 2x USB4 Tipo-C 40Gbps com DisplayPort e PD, 1x USB-A 3.2, 1x HDMI 2.1",
+        "Peso": "Apenas 1.50 kg com teclado retroiluminado PT e touchpad ErgoSense alargado"
+      },
+      "compatibilityStatus": "Certificação Copilot+ PC com aceleração de modelos LLM locais sem consumo de bateria.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80",
+          "alt": "Portátil ASUS Zenbook S 16 OLED Ceraluminum"
+        }
+      ],
+      "featuredPromo": true
+    },
+    {
+      "id": "prod-comp-007",
+      "sku": "BC-LAP-YOGA-SLIM7-LUNAR",
+      "brand": "Lenovo Yoga",
+      "title": "Portátil Lenovo Yoga Slim 7i Aura Edition 15.3\" 2.8K 120Hz Intel Core Ultra 7 258V 32GB 1TB SSD",
+      "slug": "portatil-lenovo-yoga-slim-7i-aura-core-ultra-7-258v",
+      "categoryId": "cat-computadores",
+      "subcategoryId": "sub-portateis",
+      "price": 1699.9,
+      "oldPrice": 1849.9,
+      "discountPercent": 8,
+      "stockNumber": 10,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Sob Consulta"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Autonomia Recorde Lunar Lake",
+      "rating": 4.8,
+      "reviewsCount": 13,
+      "shortSpecs": [
+        "Ecrã 15.3\" PureSight Pro 2.8K (2880x1800) 120Hz IPS 500 nits 100% DCI-P3",
+        "Processador Intel Core Ultra 7 258V Lunar Lake com 32GB MoP integrados no chip",
+        "Gráfica Intel Arc 140V com arquitetura Xe2 e 48 TOPS NPU para IA",
+        "Bateria para até 22 horas de reprodução contínua e peso de 1.53 kg"
+      ],
+      "detailedSpecs": {
+        "Processador": "Intel Core Ultra 7 258V (8 Cores, 8 Threads até 4.8GHz, NPU 48 TOPS)",
+        "Gráficos": "Intel Arc 140V (8 núcleos Xe2, suporte a Ray Tracing e XeSS 2)",
+        "Ecrã": "15.3\" 2.8K (2880x1800), 120Hz, 16:10, 500 nits, Dolby Vision, ecrã anti-reflexo",
+        "Memória RAM": "32GB LPDDR5X-8533MHz Memory-on-Package (latência ultra baixa)",
+        "Armazenamento": "1TB SSD M.2 2242 PCIe 4.0 NVMe",
+        "Bateria": "70 Wh com autonomia até 22 horas e carga rápida Rapid Charge Boost",
+        "Segurança & IA": "Câmara FHD IR com obturador de privacidade e detecção de presença",
+        "Portas": "2x Thunderbolt 4 / USB4 40Gbps, 1x USB-A 3.2 Gen 1, 1x HDMI 2.1",
+        "Sistema Operativo": "Windows 11 Home PT com suíte Lenovo Aura Smart Care"
+      },
+      "compatibilityStatus": "Compatível com todas as ferramentas de desenvolvimento Docker, WSL2 e Adobe Creative Cloud com aceleração NPU.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+          "alt": "Portátil Lenovo Yoga Slim 7i Lunar Lake"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-comp-008",
+      "sku": "BC-SSD-CRUCIAL-T705-2TB-HS",
+      "brand": "Crucial",
+      "title": "Disco SSD Crucial T705 2TB M.2 2280 PCIe 5.0 x4 NVMe com Dissipador Heatsink 14.500 MB/s",
+      "slug": "ssd-crucial-t705-2tb-pcie-5-heatsink",
+      "categoryId": "cat-computadores",
+      "subcategoryId": "sub-ssd",
+      "price": 449.9,
+      "oldPrice": 499.9,
+      "discountPercent": 10,
+      "stockNumber": 15,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Poucas Unidades",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "O SSD Mais Rápido do Planeta",
+      "rating": 5,
+      "reviewsCount": 37,
+      "shortSpecs": [
+        "Velocidade de Leitura Sequencial até 14.500 MB/s e Escrita até 12.700 MB/s",
+        "Interface PCIe 5.0 x4 NVMe 2.0 com controlador Phison PS5026-E26 de ponta",
+        "Dissipador passivo integrado em alumínio e cobre projetado para zero thermal throttling",
+        "Memória Micron TLC NAND de 232 camadas com durabilidade de 1200 TBW"
+      ],
+      "detailedSpecs": {
+        "Formato": "M.2 2280 com dissipador térmico premium em alumínio",
+        "Interface": "PCIe Gen 5.0 x4, NVMe 2.0 (retrocompatível com PCIe 4.0/3.0)",
+        "Leitura Sequencial": "Até 14.500 MB/s",
+        "Escrita Sequencial": "Até 12.700 MB/s",
+        "Leitura Aleatória 4K": "Até 1.550.000 IOPS",
+        "Escrita Aleatória 4K": "Até 1.800.000 IOPS",
+        "Endurance (TBW)": "1.200 TBW",
+        "MTTF": "1.5 milhões de horas",
+        "Garantia": "5 Anos de Garantia Oficial do Fabricante em Portugal"
+      },
+      "compatibilityStatus": "Requer motherboard com slot M.2 PCIe 5.0 para atingir a velocidade máxima de 14.500 MB/s (compatível em PCIe 4.0 a 7.500 MB/s).",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80",
+          "alt": "SSD Crucial T705 2TB PCIe 5.0 NVMe Heatsink"
+        }
+      ],
+      "featuredPromo": true
+    },
+    {
+      "id": "prod-comp-009",
+      "sku": "BC-SSD-SAM-990PRO-2TB-HS",
+      "brand": "Samsung",
+      "title": "Disco SSD Samsung 990 PRO 2TB M.2 2280 PCIe 4.0 x4 NVMe com Heatsink e Luz RGB 7.450 MB/s",
+      "slug": "ssd-samsung-990-pro-2tb-heatsink-rgb",
+      "categoryId": "cat-computadores",
+      "subcategoryId": "sub-ssd",
+      "price": 199.9,
+      "oldPrice": 239.9,
+      "discountPercent": 17,
+      "stockNumber": 26,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Totalmente Compatível com PS5 & PC",
+      "rating": 4.9,
+      "reviewsCount": 94,
+      "shortSpecs": [
+        "Velocidade de Leitura Sequencial até 7.450 MB/s e Escrita até 6.900 MB/s",
+        "Dissipador térmico oficial ultrafino compatível com PlayStation 5 e PC Desktop",
+        "Controlador Samsung Pascal com revestimento de níquel para controlo térmico inteligente",
+        "Software Samsung Magician com iluminação LED personalizável no dissipador"
+      ],
+      "detailedSpecs": {
+        "Formato": "M.2 2280 c/ Heatsink integrado e LED de estado",
+        "Interface": "PCIe Gen 4.0 x4, NVMe 2.0",
+        "Leitura Sequencial": "Até 7.450 MB/s",
+        "Escrita Sequencial": "Até 6.900 MB/s",
+        "Leitura Aleatória 4K (QD32)": "Até 1.400.000 IOPS",
+        "Escrita Aleatória 4K (QD32)": "Até 1.550.000 IOPS",
+        "Memória Cache DRAM": "2GB Low Power DDR4 SDRAM dedicada",
+        "Durabilidade (TBW)": "1.200 TBW",
+        "Garantia": "5 Anos de garantia limitada Samsung em Portugal"
+      },
+      "compatibilityStatus": "Dimensões 100% homologadas pela Sony para instalação direta na slot de expansão da PS5 e PS5 Pro.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80",
+          "alt": "SSD Samsung 990 PRO 2TB M.2 PCIe 4.0 NVMe Circuitos de Alta Velocidade"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-comp-010",
+      "sku": "BC-SSD-KINGSTON-FURY-4TB",
+      "brand": "Kingston",
+      "title": "Disco SSD Kingston FURY Renegade 4TB M.2 2280 PCIe 4.0 NVMe com Dissipador Grafeno 7.300 MB/s",
+      "slug": "ssd-kingston-fury-renegade-4tb-nvme",
+      "categoryId": "cat-computadores",
+      "subcategoryId": "sub-ssd",
+      "price": 379.9,
+      "oldPrice": 429.9,
+      "discountPercent": 12,
+      "stockNumber": 8,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Poucas Unidades",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Sob Consulta"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Capacidade Gigante de 4TB",
+      "rating": 4.9,
+      "reviewsCount": 42,
+      "shortSpecs": [
+        "Capacidade massiva de 4TB (4000GB) para bibliotecas completas de jogos e vídeos 4K/8K",
+        "Leituras sequenciais extremas de 7.300 MB/s e gravações de 7.000 MB/s",
+        "Dissipador de calor em grafeno e alumínio de perfil ultra-baixo (ideal para portáteis e PS5)",
+        "Durabilidade lendária de 4.0 Petabytes gravados (4.000 TBW)"
+      ],
+      "detailedSpecs": {
+        "Formato": "M.2 2280 slim com dispersor térmico de grafeno",
+        "Interface": "PCIe 4.0 x4 NVMe",
+        "Controlador": "Phison E18 de 8 canais com DRAM Cache DDR4",
+        "Leitura Sequencial": "Até 7.300 MB/s",
+        "Escrita Sequencial": "Até 7.000 MB/s",
+        "Leitura Aleatória 4K": "Até 1.000.000 IOPS",
+        "Escrita Aleatória 4K": "Até 1.000.000 IOPS",
+        "Endurance": "4.000 TBW (4.0 PBW)",
+        "Garantia": "5 Anos com suporte técnico Kingston em Portugal"
+      },
+      "compatibilityStatus": "Compatível com qualquer portátil, motherboard PC e consola PS5 graças ao perfil ultra-fino de grafeno de 3.5mm.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80",
+          "alt": "SSD Kingston FURY Renegade 4TB NVMe M.2 Circuito Integrado de Alta Velocidade"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-mon-asus-pg32ucdm",
+      "sku": "90LM0A80-B01370",
+      "brand": "ASUS ROG",
+      "title": "Monitor Asus ROG Swift OLED PG32UCDM 31.5\" QD-OLED 4K 240Hz 0.03ms KVM",
+      "slug": "monitor-asus-rog-swift-oled-pg32ucdm-32-4k-240hz",
+      "categoryId": "cat-perifericos",
+      "subcategoryId": "subcat-monitores",
+      "price": 1499,
+      "oldPrice": 1599,
+      "discountPercent": 6,
+      "stockNumber": 7,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Poucas Unidades",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Flagship 4K QD-OLED",
+      "rating": 4.95,
+      "reviewsCount": 38,
+      "shortSpecs": [
+        "Painel QD-OLED 31.5\" 4K UHD (3840x2160)",
+        "Taxa de Atualização 240Hz | Resposta 0.03ms GtG",
+        "Dissipador de Grafeno Custom com Ventilação Passiva Sem Ruído",
+        "Conetividade HDMI 2.1, DisplayPort 1.4 DSC e USB-C PD 90W com KVM"
+      ],
+      "detailedSpecs": {
+        "Painel": "Samsung QD-OLED Gen 3",
+        "Resolução": "3840 x 2160 (4K UHD 16:9)",
+        "Taxa de Atualização": "240 Hz nativo",
+        "Tempo de Resposta": "0.03 ms (GtG)",
+        "Brilho": "1000 nits (pico HDR 3% APL) / 250 nits (100% APL)",
+        "Gama de Cores": "99% DCI-P3, Delta E < 2 com calibração de fábrica",
+        "HDR": "HDR10, Dolby Vision (suporte de firmware)",
+        "Conexões de Vídeo": "2x HDMI 2.1 (48Gbps FRL), 1x DisplayPort 1.4 (DSC), 1x USB-C (DP Alt Mode, PD 90W)",
+        "Hub USB & KVM": "3x USB 3.2 Gen 1 Type-A, KVM Switch Integrado",
+        "Garantia": "3 anos oficial ASUS com cobertura de Burn-in"
+      },
+      "compatibilityStatus": "Compatível com GPUs NVIDIA RTX série 40/50 e AMD Radeon 7000/8000 via DisplayPort 1.4 DSC ou HDMI 2.1 completo 48Gbps.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Monitor Asus ROG Swift OLED PG32UCDM 4K 240Hz"
+        }
+      ],
+      "featuredPromo": true
+    },
+    {
+      "id": "prod-mon-alienware-aw2725df",
+      "sku": "210-BLNW",
+      "brand": "Alienware",
+      "title": "Monitor Alienware AW2725DF 26.7\" QD-OLED QHD 360Hz 0.03ms FreeSync Pro",
+      "slug": "monitor-alienware-aw2725df-27-qd-oled-360hz",
+      "categoryId": "cat-perifericos",
+      "subcategoryId": "subcat-monitores",
+      "price": 629.9,
+      "oldPrice": 709.9,
+      "discountPercent": 11,
+      "stockNumber": 12,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Poucas Unidades"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Rei dos eSports 360Hz",
+      "rating": 4.92,
+      "reviewsCount": 46,
+      "shortSpecs": [
+        "Painel QD-OLED 26.7\" QHD 2560x1440 a 360Hz",
+        "Tempo de resposta ultrarrápido de 0.03ms GtG e clareza perfeita em movimento",
+        "Cobertura cromática de 99.3% DCI-P3 com Delta E < 2",
+        "Certificação VESA DisplayHDR True Black 400 e AMD FreeSync Premium Pro"
+      ],
+      "detailedSpecs": {
+        "Painel": "Quantum Dot OLED (QD-OLED)",
+        "Dimensão": "26.7 polegadas",
+        "Resolução": "2560 x 1440 (QHD 16:9)",
+        "Taxa de Atualização": "360 Hz nativo",
+        "Tempo de Resposta": "0.03 ms (GtG)",
+        "Brilho": "1000 nits (pico HDR 3% APL) / 250 nits SDR",
+        "Sincronização": "AMD FreeSync Premium Pro, VESA AdaptiveSync 360Hz",
+        "Conexões": "2x DisplayPort 1.4, 1x HDMI 2.1 (FRL até 1440p@240Hz), 4x USB 3.2 Gen 1 downstream",
+        "Garantia": "3 anos Premium Dell com troca avançada e cobertura de Burn-in"
+      },
+      "compatibilityStatus": "Necessita de porta DisplayPort 1.4 com suporte DSC na placa gráfica para atingir 360Hz em resolução nativa 1440p.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Monitor Alienware AW2725DF QD-OLED 360Hz"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-kb-keychron-q1-he",
+      "sku": "Q1HE-M1-PT",
+      "brand": "Keychron",
+      "title": "Teclado Magnético Keychron Q1 HE QMK Wireless 75% Hall Effect Gateron Nebula",
+      "slug": "teclado-keychron-q1-he-wireless-magnetico-hall-effect",
+      "categoryId": "cat-perifericos",
+      "subcategoryId": "subcat-teclados",
+      "price": 239.9,
+      "oldPrice": 259.9,
+      "discountPercent": 8,
+      "stockNumber": 9,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Poucas Unidades",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Custom Magnético CNC",
+      "rating": 4.94,
+      "reviewsCount": 29,
+      "shortSpecs": [
+        "Estrutura 100% Alumínio CNC 6063 com montagem Double-Gasket acústica",
+        "Switches Magnéticos Gateron Double-Rail Nebula Hall Effect pré-lubrificados",
+        "Rapid Trigger ajustável de 0.1mm a 4.0mm com sensibilidade de 0.1mm",
+        "Conetividade Tri-Mode: 2.4GHz Wireless (1000Hz), Bluetooth 5.1 e USB-C"
+      ],
+      "detailedSpecs": {
+        "Formato": "75% compacto com Knob rotativo multimédia",
+        "Chassi": "Alumínio maquinado CNC de alta densidade anodizado",
+        "Switches": "Gateron 2.0 Magnetic Nebula (Linear sem contactos mecânicos)",
+        "Ponto de Atuação": "Customizável tecla a tecla de 0.1 mm a 4.0 mm",
+        "Tecnologia eSports": "Rapid Trigger, Dynamic Keystrokes (DKS até 4 comandos/tecla), Mod-Tap",
+        "Taxa de Polling": "1000 Hz (Wireless 2.4GHz e Cabo USB-C)",
+        "Keycaps": "PBT Doubleshot de perfil OSA premium",
+        "Bateria": "4000 mAh recarregável integrada",
+        "Software": "Keychron Web App Configurator e suporte QMK Open-Source"
+      },
+      "compatibilityStatus": "Totalmente compatível com Windows 11/10, macOS e Linux. Não requer software residente em segundo plano.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Teclado Magnético Custom Keychron Q1 HE Wireless"
+        }
+      ],
+      "featuredPromo": true
+    },
+    {
+      "id": "prod-kb-razer-huntsman-v3-tkl",
+      "sku": "RZ03-04980100-R3M1",
+      "brand": "Razer",
+      "title": "Teclado Razer Huntsman V3 Pro TKL Esports Analog Optical Gen-2 Rapid Trigger",
+      "slug": "teclado-razer-huntsman-v3-pro-tkl-analog-rapid-trigger",
+      "categoryId": "cat-perifericos",
+      "subcategoryId": "subcat-teclados",
+      "price": 219.9,
+      "oldPrice": 249.9,
+      "discountPercent": 12,
+      "stockNumber": 15,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Arma Oficial eSports",
+      "rating": 4.88,
+      "reviewsCount": 52,
+      "shortSpecs": [
+        "Switches Óticos Analógicos Razer Gen-2 com resposta Rapid Trigger instantânea",
+        "Intervalo de atuação analógica regulável de 0.1 mm a 4.0 mm",
+        "Placa de topo em Alumínio 5052 escovado de qualidade aeroespacial",
+        "Indicador LED On-The-Fly de curso de tecla e Dial Digital Multifunções"
+      ],
+      "detailedSpecs": {
+        "Formato": "TKL (Tenkeyless 80%) de formato compacto competitivo",
+        "Switches": "Razer Gen-2 Analog Optical Switches",
+        "Força de Atuação": "40g leve e ultraprecisa",
+        "Rapid Trigger": "Reposição imediata da tecla com deslocamento a partir de 0.1 mm",
+        "Polling Rate": "1000 Hz",
+        "Keycaps": "PBT Doubleshot texturizadas anti-brilho",
+        "Iluminação": "Razer Chroma RGB configurável individualmente",
+        "Apoio de Pulso": "Magnético ergonómico em pele sintética acolchoada incluído",
+        "Cabo": "USB-C para USB-A destacável revestido a malha entrançada"
+      },
+      "compatibilityStatus": "Plug & Play com configuração de atuação analógica através dos atalhos físicos e teclado ou sincronização avançada via Razer Synapse 4.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Teclado Razer Huntsman V3 Pro TKL Esports"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-mouse-razer-viper-v3-pro",
+      "sku": "RZ01-05120100-R3G1",
+      "brand": "Razer",
+      "title": "Rato Razer Viper V3 Pro Wireless 8000Hz Ultralight 54g Preto",
+      "slug": "rato-razer-viper-v3-pro-wireless-8000hz-ultralight-preto",
+      "categoryId": "cat-perifericos",
+      "subcategoryId": "subcat-ratos",
+      "price": 169.9,
+      "oldPrice": 179.99,
+      "discountPercent": 6,
+      "stockNumber": 18,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "O Mais Usado no VCT & CS2",
+      "rating": 4.96,
+      "reviewsCount": 64,
+      "shortSpecs": [
+        "Peso pena ultraleve de 54 gramas com estrutura rígida sem furos",
+        "Dongle HyperPolling Wireless nativo de 8000Hz (0.125ms de latência) incluído",
+        "Sensor Ótico Focus Pro 35K Gen-2 com tracking de 99.8% de precisão",
+        "Switches Óticos de Rato Gen-3 sem risco de duplo clique (90M cliques)"
+      ],
+      "detailedSpecs": {
+        "Sensor": "Razer Focus Pro 35K Gen-2 Optical Sensor",
+        "Resolução": "Até 35.000 DPI (ajuste granular em passos de 1 DPI)",
+        "Velocidade / Aceleração": "750 IPS / 70G",
+        "Polling Rate Real": "Até 8000 Hz nativo sem fios (0.125 ms de intervalo de transmissão)",
+        "Switches": "Razer Optical Mouse Switches Gen-3",
+        "Peso": "54 gramas",
+        "Autonomia": "Até 95 horas a 1000Hz / até 17 horas contínuas a 8000Hz",
+        "Patins": "100% PTFE Virgem de bordas curvas",
+        "Conexão": "Wireless 2.4GHz Razer HyperSpeed e cabo flexível Speedflex USB-C"
+      },
+      "compatibilityStatus": "Para usufruir dos 8000Hz sem perdas recomenda-se CPU de alta performance (Intel 13ª/14ª Gen ou AMD Ryzen 7000/9000) e porta USB direta na motherboard.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Rato Razer Viper V3 Pro Wireless 8000Hz"
+        }
+      ],
+      "featuredPromo": true
+    },
+    {
+      "id": "prod-mouse-logitech-superlight-2-dex",
+      "sku": "910-007297",
+      "brand": "Logitech G",
+      "title": "Rato Logitech G PRO X SUPERLIGHT 2 DEX Lightspeed Wireless 8000Hz Ergonómico 60g Preto",
+      "slug": "rato-logitech-g-pro-x-superlight-2-dex-lightspeed-preto",
+      "categoryId": "cat-perifericos",
+      "subcategoryId": "subcat-ratos",
+      "price": 159.9,
+      "oldPrice": 169.9,
+      "discountPercent": 6,
+      "stockNumber": 14,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Poucas Unidades"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Novo Form-Factor Dex",
+      "rating": 4.91,
+      "reviewsCount": 39,
+      "shortSpecs": [
+        "Design Ergonómico assimétrico destro desenvolvido em conjunto com jogadores profissionais",
+        "Sensor HERO 2 de nova geração até 44.000 DPI com tracking sub-mícron até 888 IPS",
+        "Switches Híbridos LIGHTFORCE unindo velocidade ótica e sensação tátil mecânica",
+        "Conexão LIGHTSPEED Wireless com suporte a Polling Rate de até 8000Hz"
+      ],
+      "detailedSpecs": {
+        "Sensor": "Logitech HERO 2 Next-Gen",
+        "Resolução": "100 a 44.000 DPI",
+        "Tracking Máximo": "> 888 IPS e > 88G aceleração",
+        "Polling Rate": "Até 8000 Hz (com a mais recente atualização de firmware)",
+        "Switches": "LIGHTFORCE Hybrid Optical-Mechanical",
+        "Peso": "60 gramas",
+        "Autonomia": "Até 95 horas de autonomia contínua em movimento",
+        "Carregamento": "USB-C rápido e compatível com base de indução POWERPLAY",
+        "Base e Patins": "PTFE sem aditivos com porta magnética POWERCORE"
+      },
+      "compatibilityStatus": "Compatível com Windows 10/11 e macOS. Memória interna integrada para salvar até 5 perfis sem necessitar de software ativo.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1629429408209-1f912961dbd8?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Rato Logitech G PRO X SUPERLIGHT 2 DEX Wireless"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-audio-audeze-maxwell",
+      "sku": "MAXWELL-PC",
+      "brand": "Audeze",
+      "title": "Headset Gaming Sem Fios Audeze Maxwell Planar Magnetic Audiófilo (Edição PC/PlayStation)",
+      "slug": "headset-audeze-maxwell-wireless-planar-magnetic",
+      "categoryId": "cat-perifericos",
+      "subcategoryId": "subcat-audio",
+      "price": 349,
+      "oldPrice": 379,
+      "discountPercent": 8,
+      "stockNumber": 6,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Poucas Unidades",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Sob Consulta"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "O Padrão Ouro Audiófilo",
+      "rating": 4.97,
+      "reviewsCount": 58,
+      "shortSpecs": [
+        "Transdutores Planares Magnéticos de 90mm de precisão de estúdio audiófilo",
+        "Reprodução de Áudio de Alta Resolução 24-bit / 96kHz em Wireless 2.4GHz",
+        "Autonomia de bateria massiva superior a 80 horas de utilização contínua",
+        "Microfone Shure com filtragem de ruído por inteligência artificial e beamforming"
+      ],
+      "detailedSpecs": {
+        "Transdutores": "Planar Magnetic de 90mm com matriz de ímanes Fluxor e bobinas Uniforce",
+        "Resposta de Frequência": "10 Hz – 50.000 Hz",
+        "Nível de Pressão Sonora (SPL)": "> 120 dB",
+        "Distorção Harmónica Total (THD)": "< 0.1% (@ 1 kHz, 1mW)",
+        "Áudio Espacial": "Dolby Atmos incluído e suporte total a Tempest 3D Audio",
+        "Conetividade": "Wireless 2.4GHz Ultra-Low Latency via Dongle USB-C, Bluetooth 5.3 (LDAC, LC3plus, AAC), USB-C DAC com fios e Jack 3.5mm analógico",
+        "Bateria": "80+ horas com carregamento rápido (20 min para 24 horas)",
+        "Construção": "Diadema em aço com suspensão em alumínio e almofadas de couro sintético de alta densidade"
+      },
+      "compatibilityStatus": "Compatibilidade universal com PC, PlayStation 5 / PlayStation 4, Nintendo Switch, Mac, iPad e smartphones.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Headset Audeze Maxwell Planar Magnetic Wireless"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-net-asus-gt-be98",
+      "sku": "90IG08E0-MO3B00",
+      "brand": "ASUS ROG",
+      "title": "Router Gaming Asus ROG Rapture GT-BE98 Quad-Band Wi-Fi 7 BE25000 Multi-Gigabit",
+      "slug": "router-asus-rog-rapture-gt-be98-quad-band-wifi-7",
+      "categoryId": "cat-perifericos",
+      "subcategoryId": "subcat-redes",
+      "price": 799,
+      "stockNumber": 5,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Poucas Unidades",
+        "bragaLeiria": "Sob Consulta"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "O Monstro do Wi-Fi 7",
+      "rating": 4.89,
+      "reviewsCount": 23,
+      "shortSpecs": [
+        "Wi-Fi 7 Quad-Band ultrarrápido com largura de banda agregada de até 25.000 Mbps",
+        "Canais ultra-amplos de 320 MHz em 6 GHz e modulação 4096-QAM",
+        "2x Portas 10Gbps (1x WAN/LAN + 1x LAN) e 4x Portas 2.5Gbps LAN",
+        "Porta exclusiva ROG Gaming Port e suporte a Multi-Link Operation (MLO)"
+      ],
+      "detailedSpecs": {
+        "Norma": "Wi-Fi 7 (IEEE 802.11be) Quad-Band",
+        "Velocidade Teórica Agregada": "Até 25.000 Mbps (6GHz-1: 5764Mbps + 6GHz-2: 5764Mbps + 5GHz: 5764Mbps + 2.4GHz: 1376Mbps)",
+        "Processamento": "Processador Quad-Core 2.6 GHz 64-bit com 2GB RAM DDR4",
+        "Antenas": "8 antenas externas otimizadas com dissipadores térmicos de alumínio",
+        "Portas de Rede": "1x 10Gbps WAN/LAN, 1x 10Gbps LAN dedicada, 4x 2.5Gbps LAN, 1x Gigabit RJ45",
+        "Portas USB": "1x USB 3.2 Gen 1, 1x USB 2.0 (Backup de rede 4G/5G tethering)",
+        "Funcionalidades de Rede": "ROG Game Acceleration, VPN Fusion, AiMesh 2.0 e segurança AiProtection Pro comercial gratuita"
+      },
+      "compatibilityStatus": "Compatível com todas as operadoras portuguesas (MEO, NOS, Vodafone, Digi) via porta 10Gbps ou 2.5Gbps em Bridge Mode ou ligação direta ONT.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Router Gaming Asus ROG Rapture GT-BE98 Wi-Fi 7"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-acc-club3d-hdmi-21",
+      "sku": "CAC-1372",
+      "brand": "Club 3D",
+      "title": "Cabo Club 3D Ultra High Speed HDMI 2.1 Certificado 48Gbps 8K60Hz/4K120-240Hz 2m",
+      "slug": "cabo-club-3d-ultra-high-speed-hdmi-21-48gbps-2m",
+      "categoryId": "cat-perifericos",
+      "subcategoryId": "subcat-cabos-acessorios",
+      "price": 24.9,
+      "oldPrice": 29.9,
+      "discountPercent": 17,
+      "stockNumber": 50,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Receba amanhã em Portugal Continental",
+      "fastShippingPill": "Receba amanhã",
+      "highlightBadge": "Certificação Oficial HDMI Forum",
+      "rating": 4.98,
+      "reviewsCount": 112,
+      "shortSpecs": [
+        "Certificação oficial HDMI Forum Ultra High Speed com selo holográfico rastreável",
+        "Largura de banda máxima de 48 Gbps sem compressão nem artefactos de sinal",
+        "Suporte a 4K@240Hz, 4K@120Hz/144Hz 10-bit e 8K@60Hz com Dynamic HDR",
+        "Compatível com eARC, VRR (Variable Refresh Rate), ALLM e QFT"
+      ],
+      "detailedSpecs": {
+        "Norma": "HDMI 2.1 Ultra High Speed Oficial",
+        "Largura de Banda": "48 Gbps (Fixed Rate Link - FRL)",
+        "Comprimento": "2.0 metros",
+        "Resoluções Suportadas": "4K @ 240Hz (com DSC), 4K @ 144Hz/120Hz nativo RGB 4:4:4, 8K @ 60Hz HDR",
+        "Formatos de Áudio": "eARC (Dolby Atmos, DTS:X sem compressão, 32 canais de áudio)",
+        "Construção": "Tripla blindagem EMI de alta eficiência contra ruído de rede sem fios",
+        "Conectores": "Pinos banhados a ouro 24k com carcaça de liga de zinco reforçada",
+        "Garantia": "2 anos de garantia direta de fábrica"
+      },
+      "compatibilityStatus": "Essencial para ligar monitores OLED 4K 240Hz, TVs OLED modernas e consolas PlayStation 5 / Xbox Series X a placas gráficas RTX 40/50 e RX 7000.",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80",
+          "alt": "Cabo HDMI 2.1 Ultra High Speed 48Gbps Conectores Banhados a Ouro"
+        }
+      ],
+      "featuredPromo": false
+    },
+    {
+      "id": "prod-srv-bytecraft-montagem-pro",
+      "sku": "SRV-BC-MONT-PRO",
+      "brand": "ByteCraft Services",
+      "title": "Serviço ByteCraft Pro: Montagem Avançada + Cable Management Artesanal + Teste de Stress 24h & Afinação BIOS",
+      "slug": "servico-bytecraft-montagem-avancada-cable-management-teste-stress",
+      "categoryId": "cat-perifericos",
+      "subcategoryId": "subcat-servicos",
+      "price": 49.9,
+      "oldPrice": 69.9,
+      "discountPercent": 29,
+      "stockNumber": 99,
+      "stockStatus": {
+        "onlineWarehouse": "Em Stock",
+        "lisboaBenfica": "Em Stock",
+        "portoGaia": "Em Stock",
+        "bragaLeiria": "Em Stock"
+      },
+      "deliveryEstimate": "Entrega em 24-48h com o seu novo PC",
+      "fastShippingPill": "Entrega em 24-48h",
+      "highlightBadge": "Garantia ByteCraft Zero Falhas",
+      "rating": 4.99,
+      "reviewsCount": 247,
+      "shortSpecs": [
+        "Montagem por técnicos seniores em bancada antiestática ESD certificada",
+        "Cable management artesanal milimétrico com fixadores velcro e rotas limpas",
+        "Atualização de BIOS + ativação de perfis XMP/EXPO e curva de ventoinhas silenciosa",
+        "Bateria rigorosa de testes de stress térmico e elétrico de 24 horas contínuas"
+      ],
+      "detailedSpecs": {
+        "Montagem Fisiológica": "Instalação meticulosa de CPU, GPU, AiO Water Cooler ou Air Cooler com aperto calibrado e pasta térmica de alta performance",
+        "Cable Management": "Arrumação traseira de cabos com calhas, abraçadeiras reutilizáveis e isolamento de cabos de dados para fluxo de ar perfeito",
+        "Afinação de Firmware": "Flash da BIOS mais recente e estável, ativação de XMP 3.0 / AMD EXPO, ativação de Re-Size BAR e parametrização de perfis acústicos na BIOS",
+        "Testes de Validação": "24 horas de estresse térmico/estabilidade com AIDA64, FurMark e MemTest86 sem falhas",
+        "Documentação": "Certificado de Montagem ByteCraft com checklist de 32 pontos de controlo e relatório de temperaturas sob carga máxima"
+      },
+      "compatibilityStatus": "Válido para qualquer configuração completa de desktop encomendada na ByteCraft (sistemas Air Cooling ou Water Cooling AiO de qualquer dimensão).",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=1200&q=80",
+          "alt": "Serviço ByteCraft Pro Montagem Avançada e Testes"
+        }
+      ],
+      "featuredPromo": true
+    }
+  ]
+}
